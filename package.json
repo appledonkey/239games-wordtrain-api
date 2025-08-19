@@ -1,0 +1,12 @@
+{
+  "name": "word-train-api",
+  "version": "1.0.0",
+  "description": "API server for Word Train game",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
